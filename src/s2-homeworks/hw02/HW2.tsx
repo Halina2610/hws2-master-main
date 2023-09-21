@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import Affairs from './affairs/Affairs'
 import s2 from '../../s1-main/App.module.css'
-import affairs from "./affairs/Affairs";
 
 /*
 * 1 - описать типы AffairPriorityType, AffairType +
