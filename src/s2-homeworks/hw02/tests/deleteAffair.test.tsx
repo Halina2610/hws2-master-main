@@ -33,3 +33,5 @@ test('delete 6', () => {
     const newState = deleteAffair(initialState, 6)
     expect(newState.length).toBe(5)
 })
+
+
