@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hws2-master-main/static/css/main.04c1d525.css",
-    "main.js": "/hws2-master-main/static/js/main.b9d73818.js",
-    "static/js/787.66cb4309.chunk.js": "/hws2-master-main/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws2-master-main/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/hws2-master-main/index.html",
-    "main.04c1d525.css.map": "/hws2-master-main/static/css/main.04c1d525.css.map",
-    "main.b9d73818.js.map": "/hws2-master-main/static/js/main.b9d73818.js.map",
-    "787.66cb4309.chunk.js.map": "/hws2-master-main/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/react-kabzda-kak-podrobno/static/css/main.04c1d525.css",
+    "main.js": "/react-kabzda-kak-podrobno/static/js/main.c40c8b64.js",
+    "static/js/787.66cb4309.chunk.js": "/react-kabzda-kak-podrobno/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/react-kabzda-kak-podrobno/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/react-kabzda-kak-podrobno/index.html",
+    "main.04c1d525.css.map": "/react-kabzda-kak-podrobno/static/css/main.04c1d525.css.map",
+    "main.c40c8b64.js.map": "/react-kabzda-kak-podrobno/static/js/main.c40c8b64.js.map",
+    "787.66cb4309.chunk.js.map": "/react-kabzda-kak-podrobno/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04c1d525.css",
-    "static/js/main.b9d73818.js"
+    "static/js/main.c40c8b64.js"
   ]
 }
