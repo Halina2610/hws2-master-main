@@ -31,7 +31,6 @@ const SuperInputText: React.FC<SuperInputTextPropsType> = (
         className,
         spanClassName,
         id,
-
         ...restProps // все остальные пропсы попадут в объект restProps
     }
 ) => {
