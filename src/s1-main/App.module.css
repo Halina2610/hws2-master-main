@@ -7,5 +7,13 @@
 }
 
 .hwTitle {
+    font-family: Montserrat, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
 
 }

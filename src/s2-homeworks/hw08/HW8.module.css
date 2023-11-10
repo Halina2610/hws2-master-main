@@ -5,19 +5,45 @@
 }
 
 .users {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0;
+    text-align: left;
+    width: 100%;
+    color: #000;
 }
 
 .buttonsContainer {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    margin-bottom: 10px;
 }
 
 .container {
+    width: 606px;
+    height: 1px;
 }
 
 .thead {
+    background-color: #E5E5E5;
+    font-weight: 600;
+    height: 36px;
 }
 
 .nameCol {
+    width: 297px;
+    height: 16px;
+    padding: 10px 0 10px 10px;
+    border-bottom: 1px solid #E5E5E5;
+
 }
 
 .ageCol {
+    height: 16px;
+    padding: 10px 0 10px 10px;
+    border-bottom: 1px solid #E5E5E5;
+
 }
