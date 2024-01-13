@@ -4,11 +4,6 @@
     flex-direction: column;
 }
 
-
-.message >.time {
-    margin-right: -1240px;
-}
-
 .imageAndText {
     display: flex;
     flex-direction: row-reverse;
@@ -45,7 +40,7 @@
     display: block;
     position: absolute;
     right: -10px;
-    bottom: 0px;
+    bottom: 0;
 }
 
 .name {
@@ -59,6 +54,7 @@
 }
 
 .time {
-    text-align: center;
+    text-align: right;
     font-weight: bold;
+    padding: 10px;
 }

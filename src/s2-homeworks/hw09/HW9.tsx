@@ -11,8 +11,8 @@ import s2 from '../../s1-main/App.module.css'
 
 const HW9 = () => {
     return (
-        <div id={'hw9'}>
-            <div className={s2.hwTitleClock}>Homework #9</div>
+        <div id={'hw9'} className={s2.hw9}>
+            <div className={s2.hwTitle}>Homework #9</div>
 
             <div className={s2.hw}>
                 <Clock />

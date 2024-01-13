@@ -3,10 +3,6 @@
     flex-direction: column;
 }
 
-.friendMessage > div:last-child {
-margin-left: -1240px;
-}
-
 .friendImageAndText {
     display: flex;
     align-items: center;
@@ -39,7 +35,7 @@ margin-left: -1240px;
 
     display: block;
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
     left: -10px;
 }
 
@@ -54,6 +50,7 @@ margin-left: -1240px;
 }
 
 .friendTime {
-    text-align: center;
+    text-align: left;
+    padding: 10px;
     font-weight: bold;
 }

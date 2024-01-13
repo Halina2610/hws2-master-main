@@ -1,3 +1,26 @@
-.loader {
+.loader{
     /*свг и/или анимация*/
+    width: 90px;
+    height: 90px;
+    border-top: 3px solid transparent;
+    border-radius: 50%;
+    background: linear-gradient(to right, white 40%, rgba(81, 45, 228, 1));
+    animation: spin 1s linear infinite;
+}
+.loader::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+@keyframes spin{
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

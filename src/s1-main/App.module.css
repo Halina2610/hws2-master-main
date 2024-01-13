@@ -1,31 +1,29 @@
 .App {
     --header_height: 60px;
+    margin: 0 auto;
+    padding: 0 100px ;
 }
 
 .hw {
+    padding: 50px 0;
 
 }
 
 .hwTitle {
     font-family: Montserrat, sans-serif;
-    margin: 10px;
-    padding: 10px;
+    margin: 20px 0;
+    padding: 10px 10px;
     font-size: 22px;
     font-weight: 600;
     line-height: 27px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: left;
+    border-bottom: 1px solid #D9D9D9;
 
 }
 
-.hwTitleClock {
-    font-family: Montserrat, sans-serif;
-    margin: 320px 10px 10px 10px;
-    padding: 10px;
-    font-size: 22px;
-    font-weight: 600;
-    line-height: 27px;
-    letter-spacing: 0em;
-    text-align: left;
+.hw9{
+    padding-top: 300px;
 
 }
+
